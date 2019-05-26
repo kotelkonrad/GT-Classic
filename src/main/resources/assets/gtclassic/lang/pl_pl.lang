@@ -1299,7 +1299,7 @@ fluid.cyanvitriol=Cyan Vitriol
 
 #block tooltips
 tooltip.gtclassic.machine_heatingelement0=Melts things when a heat source is below
-tooltip.gtclassic.machine_chargeomat_ev0=Charges lots of things
+tooltip.gtclassic.machine_chargeomat_ev0=Ładuje wiele przedmiotów
 tooltip.gtclassic.machine_computercube_ev0=Does computerThings();
 tooltip.gtclassic.machine_industrialcentrifuge_lv0=Separates contents by spinning them at high speeds
 tooltip.gtclassic.machine_electricsmelter_lv0=Used to melt and shape low heat materials
@@ -1314,8 +1314,8 @@ tooltip.gtclassic.block_resinboard=Can be clicked with a knife to cut
 tooltip.gtclassic.magnifying_glass=Debugs multi-blocks and gives general info
 tooltip.gtclassic.destructo_pack=Przenośny kosz
 tooltip.gtclassic.crafting_tablet=Temporary crafting on the go
-tooltip.gtclassic.electromagnet=Become a walking vacuum!
-tooltip.gtclassic.tesla_staff=O V E R C H A R G E D
+tooltip.gtclassic.electromagnet=Bądź chodzącą odkurzarką!
+tooltip.gtclassic.tesla_staff=P R Z E Ł A D O W A N Y
 
 #extended tooltips
 tooltip.gtclassic.machine_bloomery0=Turns Iron into Refined Iron
