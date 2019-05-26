@@ -1259,27 +1259,27 @@ item.gtclassic.portable_scanner.name=Portable Scanner
 item.gtclassic.debug_scanner.name=Debug Scanner
 
 #fluids
-fluid.hydrogen=Hydrogen
-fluid.tritium=Tritium
+fluid.hydrogen=Wodór
+fluid.tritium=Tryt
 fluid.helium3=Helium-3
 fluid.helium=Helium
 fluid.heliumplasma=Helium Plasma
-fluid.lithium=Lithium
-fluid.deuterium=Deuterium
-fluid.beryllium=Beryllium
-fluid.oxygen=Oxygen
-fluid.sodium=Sodium
-fluid.methane=Methane
+fluid.lithium=Lit
+fluid.deuterium=Deuter
+fluid.beryllium=Beryl
+fluid.oxygen=powietrze
+fluid.sodium=Sod
+fluid.methane=Metan
 fluid.sulfuricacid=Sulfuric Acid
-fluid.potassium=Potassium
+fluid.potassium=Potas
 fluid.mercury=Mercury
-fluid.calcium=Calcium
+fluid.calcium=Wapń
 fluid.nitrogen=Nitrogen
 fluid.nitrogenplasma=Nitrogen Plasma
-fluid.chlorine=Chlorine
-fluid.cryolite=Cryolite
+fluid.chlorine=Chlor
+fluid.cryolite=Kriolit
 fluid.sulfurdioxide=Sulfur Dioxide
-fluid.silicon=Silicon
+fluid.silicon=silicon
 fluid.hydrochloricacid=Hydrochloric Acid
 fluid.crude_oil=Crude Oil
 fluid.oil=Oil
@@ -1290,7 +1290,7 @@ fluid.bauxitetailings=Bauxite Tailings
 fluid.carbondioxide=Carbon Dioxide
 fluid.lithiumcarbonate=Lithium Carbonate
 fluid.nitricacid=Nitric Acid
-fluid.aquaregia=Aqua Regia
+fluid.aquaregia=Woda Królewska
 fluid.chloroplatinicacid=Chloroplatinic Acid
 fluid.greenvitriol=Green Vitriol
 fluid.bluevitriol=Blue Vitriol
@@ -1312,7 +1312,7 @@ tooltip.gtclassic.block_resinboard=Can be clicked with a knife to cut
 
 #item tooltips
 tooltip.gtclassic.magnifying_glass=Debugs multi-blocks and gives general info
-tooltip.gtclassic.destructo_pack=Mobile trash can
+tooltip.gtclassic.destructo_pack=Przenośny kosz
 tooltip.gtclassic.crafting_tablet=Temporary crafting on the go
 tooltip.gtclassic.electromagnet=Become a walking vacuum!
 tooltip.gtclassic.tesla_staff=O V E R C H A R G E D
@@ -1327,9 +1327,9 @@ tooltip.gtclassic.machine_bloomery5=30 Brick Blocks
 
 tooltip.gtclassic.machine_charcoalpit0=Makes charcoal out of any logs
 tooltip.gtclassic.machine_charcoalpit1=Use a Flint & Steel to start processing
-tooltip.gtclassic.machine_charcoalpit2=Structure Requirements:
+tooltip.gtclassic.machine_charcoalpit2=Wymagania dotyczące struktury:
 tooltip.gtclassic.machine_charcoalpit3=3x3x3 block of logs surrounded by dirt,
-tooltip.gtclassic.machine_charcoalpit4=Controller centered on top
+tooltip.gtclassic.machine_charcoalpit4=Kontroler musi być centralnie na górze
 
 tooltip.gtclassic.machine_blastfurnace_lv0=Smelts at temps too hot for a normal furnace
 tooltip.gtclassic.machine_blastfurnace_lv1=Structure Requirements:
@@ -1343,8 +1343,8 @@ tooltip.gtclassic.machine_industrialelectrolyzer_hv0=*Slaps roof of Electrolyzer
 tooltip.gtclassic.machine_industrialelectrolyzer_hv1=This bad boy can process so much stuff!
 
 #generalized tooltips getting reused
-tooltip.gtclassic.beacon=Can be used as a beacon base
-tooltip.gtclassic.nomobs=Mobs can't spawn on this Block
+tooltip.gtclassic.beacon=Może być używany jako podstawa do magicznej latarnii
+tooltip.gtclassic.nomobs=Moby nie pojawiają się na tym bloku
 
 
 jei.centrifugeu.name=%s EU
